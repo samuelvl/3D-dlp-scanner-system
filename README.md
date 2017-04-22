@@ -4,6 +4,6 @@ The **3D DLP high-speed scanner system** is built to retrieve the 3D shape of an
 
 In a simple way, the system works as follows:
 
-
+![alt tag](imgs/project_diagram.png)
 
 The whole project is explained at [this document](Project.pdf).
