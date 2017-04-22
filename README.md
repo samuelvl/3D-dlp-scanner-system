@@ -9,3 +9,5 @@ In a simple way, the system works as follows:
 </p>
 
 The whole project is explained at [this document](Project.pdf).
+
+Remove this branch.
