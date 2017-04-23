@@ -1,6 +1,6 @@
 # 3D DLP Scanner System
 
-With **3D DLP high-speed scanner system** it is possible to retrieve the 3D shape of an object using a **DLP LightCrafter 4500 Projector** controlled by a **Raspberry Pi**, applying **DFP** (Digital Fringe Projection) techniques.
+With **3D DLP high-speed scanner system** it is possible to retrieve the 3D shape of an object applying **DFP** (Digital Fringe Projection) techniques, using a **DLP LightCrafter 4500 Projector** controlled by a **Raspberry Pi**.
 
 In a simple way, the system works as follows:
 
