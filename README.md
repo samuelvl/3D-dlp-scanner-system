@@ -54,4 +54,4 @@ sudo ./pGenerator -s -I 220 -T 10 -t 100000
 ```
 6. Record **calibration plane and object sequence** with the camera.
 7. Copy both videos to **[MATLAB script](matlab)** folder.
-8. Finally.. run **algorithm.m**
+8. Finally... run **algorithm.m**
