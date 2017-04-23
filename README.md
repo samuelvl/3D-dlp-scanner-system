@@ -22,7 +22,7 @@ If you want to **build the whole system** you will need next components:
 And **the steps** to set up the system are following:
 
 1. Connect everything as specified on page 5 of **[technical project documentation](Project.pdf)**.
-2. Change RPi HDMI resolution to projector resolution 912x1140 editing **/boot/config.txt** file:
+2. Change **RPi HDMI resolution** to projector resolution 912x1140 editing **/boot/config.txt** file:
 ```
 hdmi_group=2
 hdmi_mode=87
