@@ -53,7 +53,7 @@ p2 = [334, 315];            % calibration point 2 (x2, y2) <- right eye
 [calibratedShape, xTicks, yTicks] = ...
     getCalibratedShape(shape, objDim, realDim, p1, p2);
 
-%% OUTPUT 3D RESULT
+%% OUTPUT 3D RESULT 
 figure('Color', [1 1 1]);
 surf(calibratedShape);
 shading interp; light; lighting gouraud;
