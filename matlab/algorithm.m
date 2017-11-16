@@ -61,3 +61,4 @@ title('3D shape measurement');
 xlabel('width (mm)'); ylabel('height (mm)'); zlabel('depth (mm)');
 xlim([0 size(calibratedShape, 2)]); ylim([0 size(calibratedShape, 1)]);
 set(gca,'XTickLabel', xTicks); set(gca,'YTickLabel', yTicks);
+axis equal % to make 3D shape looks real
