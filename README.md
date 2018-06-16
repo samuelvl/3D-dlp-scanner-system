@@ -30,6 +30,7 @@ hdmi_cvt=912 1140 60 4 0 0 0
 ```
 3. Install **[HIDAPI Library](rpi/hidapi)** on RPi:
 ```bash
+sudo apt-get install libudev-dev
 sudo apt-get install libusb-1.0-0-dev
 cd ~/hidapi
 make
